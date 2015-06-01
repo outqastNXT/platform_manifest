@@ -432,4 +432,5 @@
 <project path="packages/apps/InCallUI" name="outqastNXT/packages_apps_InCallUI" remote="github" revision="lp-mr1" />
 <project path="packages/apps/Settings" name="outqastNXT/packages_apps_Settings" remote="github" revision="lp-mr1" />
 <project path="external/busybox" name="outqastNXT/external_busybox" remote="github" revision="lp-mr1" />
+<project path="libcore" name="outqastNXT/libcore" remote="github" revision="lp-mr1" />
 </manifest>
