@@ -12,7 +12,7 @@
            remote="aosp"
            sync-j="10" />
 
-  <project path="build" name="outqastNXTNXT/build" remote="github" revision="lp-mr1" >
+  <project path="build" name="outqastNXT/build" remote="github" revision="lp-mr1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
