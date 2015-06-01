@@ -427,7 +427,6 @@
 <project path="frameworks/native" name="outqastNXT/frameworks_native" remote="github" revision="lp-mr1" />
 <project path="packages/apps/Contacts" name="outqastNXT/packages_apps_Contacts" remote="github" revision="lp-mr1" />
 <project path="packages/apps/ContactsCommon" name="outqastNXT/packages_apps_ContactsCommon" remote="github" revision="lp-mr1" />
-<project path="packages/apps/Dialer" name="outqastNXT/packages_apps_Dialer" remote="github" revision="lp-mr1" />
 <project path="packages/apps/InCallUI" name="outqastNXT/packages_apps_InCallUI" remote="github" revision="lp-mr1" />
 <project path="packages/apps/Settings" name="outqastNXT/packages_apps_Settings" remote="github" revision="lp-mr1" />
 <project path="external/busybox" name="outqastNXT/external_busybox" remote="github" revision="lp-mr1" />
