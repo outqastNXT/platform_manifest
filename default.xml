@@ -419,7 +419,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
  <!-- outqastNXT stuff -->
-<project path="kernel/moto/shamu" name="outqastNXT/N6" remote="github" revision="master" />
+<project path="kernel/moto/shamu" name="DespairFactor/N6" remote="github" revision="master" />
 <project path="device/moto/shamu" name="outqastNXT/device_moto_shamu" remote="github" revision="lp-mr1"/>
 <project path="vendor/moto/shamu" name="outqastNXT/vendor_moto_shamu" remote="github" revision="lp-mr1" />
 <project path="vendor/outqastNXT" name="outqastNXT/vendor_outqast" remote="github" revision="lp-mr1" />
