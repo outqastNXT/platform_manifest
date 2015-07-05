@@ -422,7 +422,9 @@
 <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="github" revision="master" />
 <project path="kernel/lge/hammerhead" name="DespairFactor/N5M" remote="github" revision="despair" />
 <project path="device/moto/shamu" name="outqastNXT/device_moto_shamu" remote="github" revision="lp-mr1"/>
+<project path="device/lge/hammerhead" name="outqastNXT/device_lge_hammerhead" remote="github" revision="lp-mr1" />
 <project path="vendor/moto/shamu" name="outqastNXT/vendor_moto_shamu" remote="github" revision="lp-mr1" />
+<project path="vendor/lge/hammerhead" name="outqastNXT/vendor_lge_hammerhead" remote="github" revision="lp-mr1" />
 <project path="vendor/outqastNXT" name="outqastNXT/vendor_outqast" remote="github" revision="lp-mr1" />
 <project path="frameworks/base" name="outqastNXT/frameworks_base" remote="github" revision="lp-mr1" />
 <project path="frameworks/native" name="outqastNXT/frameworks_native" remote="github" revision="lp-mr1" />
